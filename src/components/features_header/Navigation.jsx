@@ -1,0 +1,35 @@
+import "../../index.css"
+
+function Navigation({pageTitle}) {
+
+    
+    return (
+        <div className="navigation_container">
+          <h3 className="page_title">{pageTitle}</h3>
+          <div className="navigation_content">
+            <div className="search_bar_container">
+                <input type="text" placeholder="Search" className="search_bar" />
+              </div>
+
+            <div className="nav_btns">
+                <div className="icon-btn" id="settings">
+                  <img src="/images/cog-outline.svg" alt="settings" />
+                </div>
+                <div className="icon-btn"  id="notifications">
+                  <img src="/images/bell-outline.svg" alt="notifications" />
+                </div>
+            </div>
+
+            <div className="profile">
+              <img alt="avatar" src="/images/avatar.png" />
+              <div className="profile_name">
+                <p>Tom Scott</p>
+                <p>Global Travel</p>
+              </div>
+            </div>
+          </div>
+        </div>
+    )
+}
+
+export default Navigation
