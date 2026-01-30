@@ -1,6 +1,7 @@
 <img src="/public/images/readme-logo.png"/>
+<img src="/public/images/readme-screens.png"/>
 
-🔎 Project overview
+## 🔎 Project overview
 
 **Travel Planner** is a centralized application for travel agencies to streamline workflows and manage data efficiently.  Automates budgets, organizes itineraries, and generates client-ready proposals, enabling agencies to deliver accurate and high-quality travel experiences. 
 
@@ -10,7 +11,7 @@ Travel agencies, especially those managing group travel, still rely on manual, f
 
 This lack of a centralized system leads to inefficiencies, higher error risk, and significant time spent on repetitive administrative tasks, reducing team productivity.
 
-As a result, valuable time is taken away from trip personalization and client relationships, while operational delays and inconsistencies negatively impact the customer experience and trust.
+As a result, valuable time is taken away from travel planning and client relationships, while operational delays and inconsistencies negatively impact the customer experience and trust.
 
 ## 🙏 Solution
 
