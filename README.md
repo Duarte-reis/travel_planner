@@ -28,3 +28,7 @@ Repetitive processes that once took hours become faster and easier to manage, al
 - CSS
 - JavaScript
 - React
+
+## 🤖 Prototype
+
+<video src="/pubic/videos/prototype.mp4" > </video>
