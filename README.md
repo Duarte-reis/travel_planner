@@ -31,4 +31,4 @@ Repetitive processes that once took hours become faster and easier to manage, al
 
 ## 🤖 Prototype
 
-<video src="/pubic/videos/prototype.mp4" width="100%" controls> </video> 
+<video src="/public/videos/prototype.mp4" width="100%" controls> </video> 
