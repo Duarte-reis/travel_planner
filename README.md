@@ -1,1 +1,1 @@
-<img src="/images/logo-original.png"/>
+<img src="/public/images/logo-original.png"/>
